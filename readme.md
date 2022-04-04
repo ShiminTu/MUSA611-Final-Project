@@ -7,7 +7,17 @@ Shimin Tu
 
 ## Objective
 
-**USPS**, **DHL**,**
+As an international student, I was really confused the first time I wanted to send a package in America and I have some questions:
+
+- What kinds of shipping services can I choose?
+- Where are those shipping facilities?
+- Which shipping facilities is closest to me?
+- How can I contact them?
+- When can I send a pacakge?
+- ...
+
+In order to tackle those problems and provide shipping instrustions for residents in Philadephia especially who are coming here for the first time, I am going to develop a web page where people can not only have an understanding about shipping facilities in Philadelphia, but also find the most appropriate shipping facilities based on filtering! The web can also be played as guidance for people whose jobs heavily relying on shipping when they are planning to rent a house.
+
 ## Project Plan
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
