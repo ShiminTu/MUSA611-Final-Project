@@ -11,16 +11,22 @@ As an international student, I was really confused the first time I wanted to se
 
 - What kinds of shipping services can I choose?
 - Where are those shipping facilities?
-- Which shipping facilities is closest to me?
+- Which shipping facility is closest to me?
 - How can I contact them?
-- When can I send a pacakge?
+- When can I send a package?
 - ...
 
-In order to tackle those problems and provide shipping instrustions for residents in Philadephia especially who are coming here for the first time, I am going to develop a web page where people can not only have an understanding about shipping facilities in Philadelphia, but also find the most appropriate shipping facilities based on filtering! The web can also be played as guidance for people whose jobs heavily relying on shipping when they are planning to rent a house.
+In order to tackle those problems and provide shipping instructions for residents in Philadephia, especially those who are coming here for the first time, I am going to develop a web page where people can not only have an understanding of shipping facilities in Philadelphia but also find the most appropriate shipping facilities based on filtering! The web can also be played as guidance for people whose jobs heavily rely on shipping when they are planning to rent a house.
 
 ## Project Plan
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+- A map showing the distribution of all shipping facilities and their specific information in Philly.
+- A set of pages showing the information of shipping facilities of each community.
+- A web page where users can filter shipping facilities based on zip, type of shipping service, available time, census tract...
+- A web page that will recommend several closest shipping facilities based on users' location. Users can also input any places of interest.
+- Present the distance between users' location and shipping facilities, and maybe provide short guidance on how to get there.
+- Present the number of shipping facilities per capita of each census tract with another layer presenting the median household income.
+- ...
 
 ## Data Source
 
