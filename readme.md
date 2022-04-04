@@ -26,8 +26,8 @@ Name, Address, City, State, Phone, Latitude, Longitude, Matchstatus, Placement, 
 [FedEx](https://hifld-geoplatform.opendata.arcgis.com/datasets/fedex-facilities/explore?location=40.046251%2C-113.396056%2C4.00)  
 Name, Type, Address, City, State, Latitude, Longitude, Matchstatus, Placement, Census_Code, Zip
 
-[Neighborhood]()  
+[Neighborhood](https://www.opendataphilly.org/dataset/philadelphia-neighborhoods)  
 
-[Zip]()  
+[Zip](https://www.opendataphilly.org/dataset/zip-codes)  
 
-[Census Data]()  
+[Census Data]()
